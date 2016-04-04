@@ -13,4 +13,4 @@ I used Levenshtein distance algorithm
 
 https://en.wikipedia.org/wiki/Levenshtein_distance
 
-and stackoverflow.com help me to write the Levenshtein distance algorithm code.
+and http://stackoverflow.com help me to write the Levenshtein distance algorithm code and solve questions.
